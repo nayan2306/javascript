@@ -1,4 +1,6 @@
-# cMLr3asK
+# Javascript applications
+
+## Counting Application
 
 Quick start:
 
